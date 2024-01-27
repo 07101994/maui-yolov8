@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TestML
+/ClassLibrary1/obj
+/MauiApp1/bin/Debug
+/MauiApp1/obj
+/TestLibrary/bin/Debug/net8.0
+/TestLibrary/obj
+/TestML/obj
+/YoloTest/bin/Debug/net8.0-windows10.0.19041.0/win10-x64
+/YoloTest/obj
+/YoloTest/YoloTest.csproj.user
