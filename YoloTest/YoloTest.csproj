@@ -63,7 +63,7 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
 		<PackageReference Include="OpenCvSharp4" Version="4.8.0.20230708" />
 		<PackageReference Include="OpenCvSharp4.Windows" Version="4.8.0.20230708" />
-		<PackageReference Include="YoloV8" Version="3.0.0" />
+		<PackageReference Include="YoloV8.Gpu" Version="3.0.0" />
 	</ItemGroup>
 
 	<ItemGroup>
